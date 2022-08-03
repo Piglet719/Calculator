@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1659407914 source:d:\實習\中央大學\practice\calculator\lex.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"lex.h"
+
+1659402886 d:\實習\中央大學\practice\calculator\lex.h
+
+1659409319 source:d:\實習\中央大學\practice\calculator\main_trial.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	"lex.h"
+
+1659410127 source:d:\實習\中央大學\practice\calculator\main_trial2.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	"lex.h"
+
